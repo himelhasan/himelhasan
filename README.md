@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himel Hasan</h1>
-<h3 align="center">A passionate React web Developer</h3>
-
-
-
-<div align="center">
-<img src="https://img.freepik.com/premium-vector/cartoon-geek-code_10308-205.jpg?w=2000" align="center" style="width: 20%" />
-</div>  
+ 
   
 
 ### <div align="center">I'm Himel, a full-time full-stack freelance developer 👨‍💻 working remotely since 2016 🚀</div>  
