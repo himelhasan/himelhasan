@@ -4,7 +4,7 @@
 
 
 <div align="center">
-<img src="https://img.freepik.com/premium-vector/cartoon-geek-code_10308-205.jpg?w=2000" align="center" style="width: 100%" />
+<img src="https://img.freepik.com/premium-vector/cartoon-geek-code_10308-205.jpg?w=2000" align="center" style="width: 20%" />
 </div>  
   
 
